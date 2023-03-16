@@ -7,11 +7,11 @@
 
 body {
   font-family: sans-serif;
-  background-color: rgb(10, 111, 111);
+	background-color: #4f5799;
 }
 
 .container {
-  background-color: #b2f4f0;
+	background-color: #fff;
   position: absolute;
   transform: translate(-50%, -50%);
   left: 50%;
