@@ -12,7 +12,7 @@ searchBtn.addEventListener("click", () => {
       result.innerHTML = `
 			<div class="word">
 				<h3>${input}</h3>
-				<button onclick="playSound()">
+				<button onclick="sound.play()">
 					<i class="fa-solid fa-volume-high"></i>
 				</button>
 			</div>
